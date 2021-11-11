@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelArnaiz
-- 👀 I’m interested in learn everything
-- 🌱 I’m currently learning lots of program languages like Java, HTML, CSS, Javascript, SQL...i'm currently studying multiplatform developer.
+- 👀 I’m interested in learn software development.
+- 🌱 I’m currently learning lots of program languages like Java, HTML, CSS, PHP, Javascript, SQL...i'm currently studying multiplatform developer.
 - 💞️ I’m looking to collaborate on every proyect that i would apport anything.
 - 📫 How to reach me: You could reach me through GitHub with a pull request, following me or sending me an e-mail. 
 
