@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelArnaiz
 - 👀 I’m interested in learn software development.
 - 🌱 I’m currently learning lots of program languages like Java, HTML, CSS, PHP, Javascript, SQL...I'm currently studying multiplatform developer.
-- 💞️ I’m looking to collaborate on every proyect that i would apport anything.
+- 💞️ I’m looking to collaborate on every proyect that I would apport anything.
 - 📫 How to reach me: Here's my LinkedIn --> https://www.linkedin.com/in/samuel-arnaiz-de-la-rosa/ (Send me a message if you have any question about me).
